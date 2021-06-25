@@ -1,0 +1,30 @@
+{
+  "Version": "1.0",
+  "Name": "My Model",
+  "Settings": {
+    "Performance": {
+      "MTQ": {
+        "MTFeedersAtStartup": false
+      }
+    }
+  },
+  "Tasks": {
+      "Refresh Security":
+    {
+      "Process": "Processes('Refresh Security')",
+      "Parameters": []
+    }
+	},
+  "Objects": {},
+  "Files": [
+      "\\admin\\*\\*"
+	],
+  "Ignore": [
+      "Processes('Ignore Me')"
+  ],
+  "Deployment": {},
+  "PrePull": [],
+  "PostPull": [],
+  "PrePush": [],
+  "PostPush": []
+}
