@@ -7,7 +7,7 @@
 		"Type":"ODBC",
 		"dataSourceNameForClient":"Plan_load_data",
 		"dataSourceNameForServer":"Plan_load_data",
-		"password":"pSI6:Dl2CDrYvt6=aEDrn^?TX;3nM[7OoGbZhdX?a^EUb[zCYI><UvF05nfUYu58b2_MNfI1T?M:gH1:RubGecz3GS:X0RdSXm\\>o9MhpEBwrobrwioyQ`d3Xo7<kYz[TTlLZVwTVp[gD48iIPMIKLY6]VTjnSl:`DnuvZRCO=;I\\7rdB0;;Qi315]7]aZY>7l1?OQ;K",
+		"password":"t6YbRm\\00S^[ievyuQPialMqShlz=>LD`heztcuR5qKq:Vv436Fa=_4]RzTR0SdKDBUILn1Ng3QrL7cV:?Ot?KdOrtJ:uu^5ZV7KR18cGeGWr`ARs7c?H38LCl<@5CgQCGOtYVK;P<>eWiX^ySJ?kdAU6:MIPiDPGo=MaiFv1vzh]zZvtPYk7fsjPyBZs@]uNHWw=<dI",
 		"query":"select * from plan_load_budgets",
 		"userName":"admin",
 		"usesUnicode":false

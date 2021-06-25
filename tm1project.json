@@ -20,7 +20,8 @@
       "\\admin\\*\\*"
 	],
   "Ignore": [
-      "Processes('Ignore Me')"
+      "Processes('Not Include')",
+      "Processes('Not Include1')"
   ],
   "Deployment": {},
   "PrePull": [],
